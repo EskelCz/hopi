@@ -3,7 +3,7 @@
 # Issues
 If you have an issue, open new issue here: https://github.com/EskelCz/hopi/issues
 
-#Contact
+# Contact
 You can find my contact information here: https://github.com/EskelCz
 
 # Privacy policy
